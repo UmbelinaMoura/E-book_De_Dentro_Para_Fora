@@ -7,7 +7,7 @@ Título: De dentro para fora: Como assumir o protagonismo da sua vida e superar 
 
 Este projeto faz parte do Bootcamp DIO, Caixa e Microsoft e teve como objetivo entender a aplicação das inteligências artificiais na produção de e-books.
 
-📕 [Clique aqui para acessar o E-book completo!](https://github.com/anagalli/E-book-Speak-Like-a-Pro/blob/main/E-book%20-%20Speak%20Like%20a%20Pro.pdf)
+📕 [Clique aqui para acessar o E-book completo!](https://github.com/UmbelinaMoura/E-book_De_Dentro_Para_Fora/blob/main/PROJETO%20E-BOOK%20BOOTCAMP.pdf)
 
 # 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chatgpt.com/) para geração de conteúdo
