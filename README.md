@@ -1,6 +1,6 @@
 # E-book_De_Dentro_Para_Fora
 
-[Imagem de Capa gerada por IA](https://github.com/UmbelinaMoura/E-book_De_Dentro_Para_Fora/blob/eb50286c20518dd773ad0883181c35c524afaada/CAPA%20DO%20E-BOOK%20CHATGPT.jpg)
+(https://github.com/UmbelinaMoura/E-book_De_Dentro_Para_Fora/blob/eb50286c20518dd773ad0883181c35c524afaada/CAPA%20DO%20E-BOOK%20CHATGPT.jpg)
 
 
 Título: De dentro para fora: Como assumir o protagonismo da sua vida e superar a sobrecarga diária com equilíbrio
