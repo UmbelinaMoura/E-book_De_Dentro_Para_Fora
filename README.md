@@ -1,5 +1,8 @@
 # E-book_De_Dentro_Para_Fora
 
+[Imagem de Capa gerada por IA](RIFF��)
+
+
 Título: De dentro para fora: Como assumir o protagonismo da sua vida e superar a sobrecarga diária com equilíbrio
 
 Este projeto faz parte do Bootcamp DIO, Caixa e Microsoft e teve como objetivo entender a aplicação das inteligências artificiais na produção de e-books.
