@@ -16,6 +16,22 @@ Este projeto faz parte do Bootcamp DIO, Caixa e Microsoft e teve como objetivo e
 **ChatGPT**
 | Ação | Promtp |
 |------|--------|
-|Título| Gostaria de ideias de temas/títulos para criação de um ebook sobre estudo de inglês, especificamente sobre formas de praticar a fala sozinho. O título deve ser chamativo, épico e enxuto. |
-|Sugestão de conteúdos|Gostei a opção 1, quais conteúdos podem ser abordados dentro de 5 capítulos curtos desse ebook?|
-|Detalhamento dos capítulos| Você é um professor de inglês experiente com anos de prática e domínio pleno da língua inglesa.<br><br>Você está desenvolvendo um e-book sobre a prática de inglês sozinho.<br><br>Desenvolva o seguinte capítulo do e-book, mantendo a linguagem enxuta, objetiva e dinâmica, engajando os leitores. O público alvo é jovem-adulto {REGRAS} traga sempre exemplos cotidianos reais e aplicações do conteúdo na prática.<br><br>**Capítulo 1: Desbloqueando a Fala em Inglês**<br>**Objetivo:** Desmistificar a prática da fala sozinho e explicar sua importância no aprendizado.<br>**Conteúdos:**<br>- Por que praticar sozinho é eficaz?<br>- A relação entre ouvir, pensar e falar.<br>- Como superar o medo de errar e o julga
+|Título| Atue como um escritor experiente e me ajude a criar um título poderoso para um e-book direcionado a mulheres que tratarão do seguinte tema: Como vamos ser independentes e protagonistas de nossas vidas sem que nossa saúde física e mental seja destruída?. |
+|Detalhamento dos capítulos| Atue como um engenheiro de prompt e crie um comando poderoso para geração de um e-book.
+|Pronpt Gerado pelo ChatGPT| Claro! Aqui está um exemplo de um prompt detalhado para gerar um e-book. O comando foi projetado para ser poderoso, estruturado e adaptável ao seu tema de interesse. 
+
+---
+
+### **Prompt para criação de e-book**:
+
+**"Escreva um e-book completo com o seguinte contexto:**
+
+1. **Tema Geral**: [Insira o tema principal, como "Inteligência Artificial na Educação"]  
+2. **Público-Alvo**: [Defina seu público, como "professores, gestores escolares e estudantes interessados em tecnologia educacional"].  
+3. **Objetivo do Livro**: [Por exemplo, "ensinar como utilizar ferramentas de IA para personalizar o ensino e melhorar o aprendizado"].  
+4. **Estrutura do Livro**: 
+   - **Introdução**: Contextualize o tema, apresente os objetivos e explique sua importância.  
+   - **Capítulo 1**: [Título do Capítulo 1] — Explique [um aspecto fundamental do tema].  
+   - **Capítulo 2**: [Título do Capítulo 2] — Detalhe [um tópico complementar ou específico].  
+   - **Capítulo 3**: [Título do Capítulo 3] — Explore [casos de uso ou aplicação prática].  
+   - **Capítulo 4**: [Título do Capítulo 4] — Discuta [desafios e.
